@@ -1,0 +1,8 @@
+Apr 18 15:16:24 ip-172-31-30-136 ec2-user: root [5218]: vim yum.log [0]
+Apr 18 15:35:58 ip-172-31-30-136 ec2-user: root [5218]: vim yum.log [0]
+Apr 18 15:35:58 ip-172-31-30-136 ec2-user: root [5218]: vim yum.log [0]
+Apr 18 15:35:59 ip-172-31-30-136 ec2-user: root [5218]: vim yum.log [0]
+Apr 18 15:36:20 ip-172-31-30-136 ec2-user: root [5218]: cd /var/log/ [0]
+Apr 18 15:36:24 ip-172-31-30-136 ec2-user: root [5218]: ls | grep command [0]
+Apr 18 15:36:54 ip-172-31-30-136 ec2-user: root [5218]: cp commands.log commands/ [1]
+Apr 18 15:36:59 ip-172-31-30-136 ec2-user: root [5218]: mkdir commands [0]
